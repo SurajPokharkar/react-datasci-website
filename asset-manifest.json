@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-datasci-website/static/css/main.2e0132e8.css",
+    "main.js": "/react-datasci-website/static/js/main.f5e6418d.js",
+    "static/media/logo.png": "/react-datasci-website/static/media/logo.802c56fb04a91b5c1789.png",
+    "index.html": "/react-datasci-website/index.html",
+    "main.2e0132e8.css.map": "/react-datasci-website/static/css/main.2e0132e8.css.map",
+    "main.f5e6418d.js.map": "/react-datasci-website/static/js/main.f5e6418d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0132e8.css",
+    "static/js/main.f5e6418d.js"
+  ]
+}
